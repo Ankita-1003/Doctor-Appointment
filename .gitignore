@@ -1,0 +1,7 @@
+node_modules
+
+# Secret
+.env
+client/.env
+backend/.env
+admin/ .env
