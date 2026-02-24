@@ -5,10 +5,10 @@ import { AdminContext } from './context/AdminContext';
 import Navbar from './components/Navbar';
 import Sidebar from './components/Sidebar';
 import { Route, Routes } from 'react-router-dom';
-import Dashboard from './pages/admin/Dashboard';
-import AllAppointments from './pages/admin/AllAppointments';
-import AddDoctor from './pages/admin/AddDoctor';
-import DoctorsList from './pages/admin/DoctorsList';
+import Dashboard from './pages/Admin/Dashboard';
+import AllAppointments from './pages/Admin/AllAppointments';
+import AddDoctor from './pages/Admin/AddDoctor';
+import DoctorsList from './pages/Admin/DoctorsList';
 
 const App = () => {
 
